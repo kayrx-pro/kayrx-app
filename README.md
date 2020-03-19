@@ -1,1 +1,1 @@
-# kayrx-kyx-app
+# kayrx-app
